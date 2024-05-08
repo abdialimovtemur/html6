@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+    font-family: Rubik;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+  
+}
+.choose{
+    text-align: center;
+    align-content: center;
+
+}
+
+.cards{
+    width: 100%;
+    display: flex;
+}
+
+.card{
+    height: 350px;
+    width: 19%;
+    margin: 0 auto;
+    background-color: #f6e1e1a8;
+    padding: 14px;
+    border-radius: 5px;
+    /* border: 3px solid #5c44bfa7; */
+}
+
+.choose-title{
+    margin: 80px 0px 0px 0px;
+    font-size: 30px;
+}
+
+.card p{
+    margin: 20px 0px 20px 0px ;
+}
+
+.card h4{
+    font-size: 17px;
+    margin: 10px 0px 10px 0px;
+}
+
+.card sup{
+    font-size: 20px;
+}
+
+.card h6{
+    font-size: 40px;
+    margin: 10px 0px 10px 0px;
+}
+
+.card-button{
+    margin: 15px 0px 1px 0px;
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    border-color: blue;
+}
+.card-button1{
+    margin: 15px 0px 1px 0px;
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    color: blue;
+    background-color: white;
+    border-color: blue;
+}
+
+.card:hover{
+    border: 2px solid blue;
+}
+
+/* section2 */
+
+.plans{
+    text-align: center;
+}
+
+/* section3 */
+
+.cardsec3:hover{
+    border: 2px solid blue;
+}
+
+
+.cardsec3{
+    height: 350px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: #f6e1e1a8;
+    padding: 14px;
+    border-radius: 5px;
+    margin-right: 18%;
+
+}
+
+.cardsec3 p{
+    margin: 20px 0px 20px 0px ;
+}
+
+.cardsec3 h4{
+    font-size: 17px;
+    margin: 10px 0px 10px 0px;
+}
+
+
+.cardsec3 h6{
+    font-size: 40px;
+    margin: 10px 0px 10px 0px;
+}
+
+
+.cardsec31{
+    height: 350px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: #f6e1e1a8;
+    padding: 14px;
+    border-radius: 5px;
+    margin-left: 15%;
+
+}
+
+.cardsec31:hover{
+    border: 2px solid blue;
+}
+
+.cardsec31 p{
+    margin: 20px 0px 20px 0px ;
+}
+
+.cardset31 h4{
+    font-size: 17px;
+    margin: 10px 0px 10px 0px;
+}
+
+.cardsec31 h6{
+    font-size: 35px;
+    margin: 10px 0px 10px 0px;
+}
+
+
